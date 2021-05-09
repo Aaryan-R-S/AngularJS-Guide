@@ -1,0 +1,12 @@
+☐ install node js
+    ☐ node --version
+    ☐ npm --version
+☐ npm install -g @angular/cli
+☐ ng serve
+☐ Add to angular.json, two paths, one to script and another to style
+    ☐ npm install bootstrap
+    ☐ npm install jquery
+☐ ng generate component myComponents/todos
+
+☐ ng build --prod
+☐ run the dist->project->index.html as static webpage
